@@ -1,0 +1,29 @@
+{
+  "name": "initia-gen",
+  "version": "1.0.0",
+  "description": "fast bulk initia wallet generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tnodes/initia-wallet-generatorhttps:.git"
+  },
+  "keywords": [
+    "initia",
+    "wallet",
+    "ibc",
+    "intita-wallet-generator"
+  ],
+  "author": "Tnodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tnodes/initia-wallet-generatorhttps:/issues"
+  },
+  "homepage": "https://github.com/Tnodes/initia-wallet-generatorhttps:#readme",
+  "dependencies": {
+    "@initia/initia.js": "^0.1.48",
+    "figlet": "^1.7.0"
+  }
+}
